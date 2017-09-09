@@ -15,6 +15,8 @@
 
 ## Images of the app working
 
+![Video of App]https://github.com/zdyk2003/bamazon/blob/master/assets/images/bamazon.mp4)
+
 	![Start Bamazon](/assets/bamazonSlides/Slide3.GIF)
 	![Select Product](/assets/bamazonSlides/Slide5.GIF)
 	![Quantity to Buy](/assets/bamazonSlides/Slide7.GIF)
