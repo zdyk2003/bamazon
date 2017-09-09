@@ -15,13 +15,12 @@
 
 ## Images of the app working
 
-![Video of App]https://github.com/zdyk2003/bamazon/blob/master/assets/images/bamazon.mp4)
 
-	![Start Bamazon](/assets/bamazonSlides/Slide3.GIF)
-	![Select Product](/assets/bamazonSlides/Slide5.GIF)
-	![Quantity to Buy](/assets/bamazonSlides/Slide7.GIF)
-	![Order is Placed](/assets/bamazonSlides/Slide9.GIF)
-	![Restart](/assets/bamazonSlides/Slide11.GIF)
-	![Insufficient Quantity](/assets/bamazonSlides/Slide13.GIF)
-	![MySQL Workbench](/assets/bamazonSlides/Slide15.GIF)
+	![Start Bamazon](https://github.com/zdyk2003/bamazon/blob/master/assets/bamazonSlides/Slide3.GIF)
+	![Select Product](https://github.com/zdyk2003/bamazon/blob/master/assets/bamazonSlides/Slide5.GIF)
+	![Quantity to Buy](https://github.com/zdyk2003/bamazon/blob/master/assets/bamazonSlides/Slide7.GIF)
+	![Order is Placed](https://github.com/zdyk2003/bamazon/blob/master/assets/bamazonSlides/Slide9.GIF)
+	![Restart](https://github.com/zdyk2003/bamazon/blob/master/assets/bamazonSlides/Slide11.GIF)
+	![Insufficient Quantity](https://github.com/zdyk2003/bamazon/blob/master/assets/bamazonSlides/Slide13.GIF)
+	![MySQL Workbench](https://github.com/zdyk2003/bamazon/blob/master/assets/bamazonSlides/Slide15.GIF)
 	
